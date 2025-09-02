@@ -68,7 +68,7 @@
 
 16. create playlist as per your requirement
 
-    <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/016%20saved%20to%20playlist.png">
+    <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/014%20create%20a%20new%20playlist.png">
 
 17. * then add to the relavent playlist by marking the check box
 
