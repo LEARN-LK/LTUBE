@@ -64,7 +64,13 @@
 
 15. * If you don't have playlists, then you can create them from the same popup
 
-     <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/014%20create%20a%20new%20playlist.png">
-16. 
-17.  
+     <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/013%20save%20to%20menu.png">
+
+16. * then add to the relavent playlist by marking the check box
+
+     <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/015%20select%20the%20playlist%20name.png">
+     
+17.  * then click save, it will add to the selected playlist
+       
+     <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/016%20saved%20to%20playlist.png">
 
