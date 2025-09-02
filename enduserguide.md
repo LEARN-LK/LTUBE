@@ -34,7 +34,7 @@
   
      <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/006%20edit%20media%20page%20-%20click%20on%20edit%20media%20button.png">
 
-9. * Add relevant hashtags from this first tab
+9. * Add relevant hashtags, from this first tab
   
      <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/007%20add%20relavent%20tags.png">
 
@@ -66,11 +66,15 @@
 
      <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/013%20save%20to%20menu.png">
 
-16. * then add to the relavent playlist by marking the check box
+16. create playlist as per your requirement
+
+    <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/016%20saved%20to%20playlist.png">
+
+17. * then add to the relavent playlist by marking the check box
 
      <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/015%20select%20the%20playlist%20name.png">
      
-17.  * then click save, it will add to the selected playlist
+18.  * then click save, it will add to the selected playlist
        
      <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/016%20saved%20to%20playlist.png">
 
