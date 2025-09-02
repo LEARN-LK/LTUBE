@@ -1,7 +1,11 @@
 # LTUBE
-*A Content Management System for digital media*
-*with Multiple media classification options*
-*Advanced users management*
+## Modern, fully featured open source video and media CMS
+
+**A Content Management System (CMS) for digital media with**  
++ **Multiple media classification options**  
++ **Advanced users management**
+
+
 
 ## Advanced video management
 
@@ -14,4 +18,5 @@
 * Scalable transcoding
 * Subtitles/CC
 
-End user Guide for video upload [User Guide](https://github.com/LEARN-LK/LTUBE/blob/main/enduserguide.md)
+End-user Guide for video upload 
+* [User Guide](https://github.com/LEARN-LK/LTUBE/blob/main/enduserguide.md)
