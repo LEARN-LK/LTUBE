@@ -52,3 +52,19 @@
     
      <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/010%20select%20relavent%20category%20public%20or%20private%20then%20publish.png">
 
+13. * Removing the video
+   
+     <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/011%20deleting%20video.png">
+
+## Playlists
+
+14. * If you want to add the video to a playlist, click on the Save button.
+
+      <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/012%20playlist%20create%20-%20save%20button.png">
+
+15. * If you don't have playlists, then you can create them from the same popup
+
+     <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/014%20create%20a%20new%20playlist.png">
+16. 
+17.  
+
