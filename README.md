@@ -3,7 +3,7 @@
 *with Multiple media classification options*
 *Advanced users management*
 
-##Advanced video management
+## Advanced video management
 
 **with the following features:**
 * Multiple transcoding profiles
@@ -13,5 +13,4 @@
 * Chunked file uploads
 * Scalable transcoding
 * Subtitles/CC
-* 
 
