@@ -2,7 +2,10 @@
 
 ### Following guide is for the user to publish a video in LTUBe
 
-**To try following steps, you need to have an account from EduID**
-1. First access the LTUBE (https://ltube.learn.ac.lk)
-2. Second item
+**To try the following steps, you need to have an account from EduID**
+1. First, access the LTUBE (https://ltube.learn.ac.lk)
+  ![you will see a site like this] https://github.com/LEARN-LK/LTUBE/blob/main/images/000%20not%20signed%20in%20page.png
+2. 
+3. 
+4. 
 
