@@ -14,3 +14,4 @@
 * Scalable transcoding
 * Subtitles/CC
 
+End user Guide for video upload [User Guide](https://github.com/LEARN-LK/LTUBE/blob/main/enduserguide.md)
