@@ -3,6 +3,7 @@
 ### Following guide is for the user to publish a video in LTUBe
 
 **To try the following steps, you need to have an account from EduID**
+
 1. * First, access the LTUBE and sign in(https://ltube.learn.ac.lk)
    <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/000%20not%20signed%20in%20page.png">
    
@@ -12,8 +13,9 @@
 4. * Click on the upload media button
    <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/002%20Click%20on%20Upload%20media%20button.png">
    
-5. *you will see this page
+5. * You will see this page
    <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/003%20upload%20media%20page.png">
    
-6. 
+6. * Select your video file
+   <img src="https://github.com/LEARN-LK/LTUBE/blob/main/images/004%20select%20file.png">
 
